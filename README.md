@@ -1,8 +1,11 @@
 # J⊙URNEY
 ## Storytelling, the heroes' way
 
-Journey is a systematic story-writing app. It provides creative writers with a set of tools, aimed to make constructing their stories easier and consciously planned.  
-**Journey is now a concept , but it's under development, going to be a product.**  
+Journey is a systematic story-writing app. It provides creative writers with a set of tools, aimed to make constructing their stories easier and consciously planned.
+
+## Notice
+**Journey is NOT under development anymore. Consider it a free open concept.**  
+You may find another open-source project [manuskript](https://github.com/olivierkes/manuskript) interesting (no relation).
 
 ## Its Philosophy & Design
 
